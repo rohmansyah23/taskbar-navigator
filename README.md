@@ -14,7 +14,10 @@ A lightweight and smart Windows automation tool that re-maps taskbar navigation 
 
 ## 📂 Project Structure
 
-```text
+```
+
+```
+text
 taskbar-navigator/
 ├── .gitignore
 ├── README.md
