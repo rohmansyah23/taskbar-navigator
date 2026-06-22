@@ -1,5 +1,3 @@
-```
-
 # 🚀 Taskbar Auto-Navigator
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
@@ -13,8 +11,8 @@ A lightweight and smart Windows automation tool that re-maps taskbar navigation 
 - **Anti-Minimize Logic**: Automatically detects if an application remains minimized or fails to focus and re-triggers the command to bring it to the front.
 - **Seamless Integration**: Lightweight and runs in the background with minimal resource consumption.
 
+```
 ## 📂 Project Structure
-
 taskbar-navigator/
 ├── .gitignore
 ├── README.md
