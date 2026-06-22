@@ -1,4 +1,5 @@
-```markdown
+```
+
 # 🚀 Taskbar Auto-Navigator
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
@@ -14,10 +15,6 @@ A lightweight and smart Windows automation tool that re-maps taskbar navigation 
 
 ## 📂 Project Structure
 
-```
-
-```
-text
 taskbar-navigator/
 ├── .gitignore
 ├── README.md
